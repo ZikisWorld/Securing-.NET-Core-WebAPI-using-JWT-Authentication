@@ -1,6 +1,7 @@
 # Securing-.NET-Core-WebAPI-using-JWT-Authentication
 This repo contains different solutions to secure .NET core API using JWT authentication
 
+<hr/>
 Solution 1:
 In this solution, JWT Token generation and validation in the same Application
   1. Client calls API Login Method. On Successful Login, Token is generated and sent as reponse to the client.
